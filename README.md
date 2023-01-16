@@ -4,13 +4,21 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
+This project is a starting point for a weather application ☁️☀️.
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ State Management Tool: Riverpod
+✅ Static Code Analysis
+✅ Code Coverage
+✅ Unit Tests
+
+For help getting started with Flutter development, 
+
+• Clone the repository. <br />
+• Run "flutter pub get" in CLI. <br />
+• Run "flutter pub run build_runner build --delete-conflicting-outputs" in CLI. <br />
+• Finally, run the application in any emulator of your choice. <br />
+
+NOTE: .env file was committed to git for testing purposes, it is not recommended to do so.
 
 ## Assets
 
