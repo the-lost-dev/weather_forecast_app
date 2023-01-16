@@ -1,0 +1,2 @@
+
+enum AppRoutes { weatherPage }
