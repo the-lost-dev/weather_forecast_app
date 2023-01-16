@@ -6,10 +6,13 @@ A new Flutter project.
 
 This project is a starting point for a weather application ☁️☀️.
 
-✅ State Management Tool: Riverpod
-✅ Static Code Analysis
-✅ Code Coverage
-✅ Unit Tests
+✅ State Management Tool: Riverpod. <br />
+✅ Static Code Analysis. <br />
+✅ Code Coverage. <br />
+✅ Unit Tests. <br />
+
+NOTE: <br />
+  .env committed to git for testing purposes
 
 For help getting started with Flutter development, 
 
